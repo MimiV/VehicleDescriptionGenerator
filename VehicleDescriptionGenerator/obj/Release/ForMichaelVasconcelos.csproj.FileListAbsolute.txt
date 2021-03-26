@@ -1,0 +1,40 @@
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\bin\Release\ForMichaelVasconcelos.exe.config
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\bin\Release\ForMichaelVasconcelos.exe
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\bin\Release\ForMichaelVasconcelos.pdb
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A3.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A4.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A5.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A6.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A7.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A8.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Page1.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Other.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Properties.Resources.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Q3.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Q5.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Q7.resources
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.csproj.GenerateResource.Cache
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.exe
+C:\Users\miche\source\repos\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.pdb
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\bin\Release\ForMichaelVasconcelos.exe.config
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\bin\Release\ForMichaelVasconcelos.exe
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\bin\Release\ForMichaelVasconcelos.pdb
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.csprojAssemblyReference.cache
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A3.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A4.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A5.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A6.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A7.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.A8.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Page1.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Other.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Properties.Resources.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Q3.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Q5.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.Q7.resources
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.csproj.GenerateResource.cache
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.csproj.CoreCompileInputs.cache
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.exe
+C:\Users\vasconcelosm1\OneDrive - Wentworth Institute of Technology\Desktop\ForMichaelVasconcelos\ForMichaelVasconcelos\obj\Release\ForMichaelVasconcelos.pdb
