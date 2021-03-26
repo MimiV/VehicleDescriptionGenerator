@@ -1,4 +1,4 @@
-# Vehicle Description Generator
+# Vehicle Description Generator For Audi Dealerships
 [Youtube video showing how the application works](https://youtu.be/vF2TIY74jAg)
 
 This is solo project created to facilitate the life of a significant other who is an inventory manager at a dealership.
